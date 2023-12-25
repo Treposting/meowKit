@@ -1,15 +1,15 @@
 {
-  "name": "meowui",
+  "name": "meowkit",
   "private": false,
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
-  "repository": "https://github.com/Treposting/meowUi",
+  "repository": "https://github.com/Treposting/meowkit",
   "license": "MIT",
   "description": "",
-  "homepage": "https://github.com/Treposting/meowUi",
+  "homepage": "https://github.com/Treposting/meowkit",
   "author": "0nahid",
   "exports": {
     ".": {
